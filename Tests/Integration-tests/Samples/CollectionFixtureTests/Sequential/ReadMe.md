@@ -1,0 +1,1 @@
+The tests in this folder run in parallel with other collections and get a separate fixture instance for the whole collection because of the [Collection(Parallel{N}FixtureCollection.Name)] attribute.

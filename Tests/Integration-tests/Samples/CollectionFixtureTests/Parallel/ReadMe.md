@@ -1,0 +1,1 @@
+The tests in this folder run in sequence with other collections and get a separate fixture instance for the whole collection because of the [Collection(Sequential{N}FixtureCollection.Name)] attribute.

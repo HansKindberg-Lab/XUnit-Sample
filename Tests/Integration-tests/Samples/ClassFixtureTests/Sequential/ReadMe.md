@@ -1,0 +1,1 @@
+The tests in this folder run in sequence with other collections because of the [Collection(SequentialCollection.Name)] attribute.

@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<ItemGroup>
+		<InternalsVisibleTo Include="Integration-tests" />
+		<InternalsVisibleTo Include="Unit-tests" />
+	</ItemGroup>
+</Project>

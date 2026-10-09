@@ -1,0 +1,1 @@
+The tests in this folder run in parallel with other collections by default. No collection definition required.
